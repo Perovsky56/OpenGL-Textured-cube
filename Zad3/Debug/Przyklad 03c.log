@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\pawci\Desktop\grafika openGL\zad3\Zad3\main.cpp(48,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\pawci\Desktop\grafika openGL\zad3\Zad3\main.cpp(361,3): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  Generating Code...
+  main.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Przyklad 03c.vcxproj -> C:\Users\pawci\Desktop\grafika openGL\zad3\Zad3\Debug\Przyklad 03c.exe
